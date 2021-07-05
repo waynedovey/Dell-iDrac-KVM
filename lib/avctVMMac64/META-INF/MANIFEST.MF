@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Avocent Corporation
+Permissions: all-permissions
+Created-By: 1.7.0_45 (Oracle Corporation)
+
+Name: libavmMac.jnilib
+SHA1-Digest: sVniH1xhXQumHjtTFzTaFnTgirw=
+

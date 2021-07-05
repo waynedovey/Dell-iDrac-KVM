@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Avocent Corporation
+Permissions: all-permissions
+Created-By: 1.7.0_45 (Oracle Corporation)
+
+Name: libavctKVMIO.jnilib
+SHA1-Digest: haVh89K7dIYOAV0i8pAi0A3hKo4=
+
